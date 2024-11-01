@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  course:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-18T09:12:40.982784907+01:00"
+    description: A Helm chart for Kubernetes
+    digest: bfeaeea6296ee559cf52caa5d785d6516e4943fad0eb9561dc5d402129487bd8
+    name: course
+    urls:
+    - course-0.1.0.tgz
+    version: 0.1.0
+  micro-backend:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-18T09:12:40.984176594+01:00"
+    description: Backend Python Flask app
+    digest: ba1fe859837d49f9b318c033e43f96f84f615dcbe3ece0e04da7a9ab272e8558
+    name: micro-backend
+    urls:
+    - micro-backend-0.1.0.tgz
+    version: 0.1.0
+  micro-frontend:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-18T09:12:40.984431692+01:00"
+    description: A Helm chart for Kubernetes
+    digest: c260c78441d09af7e1b734f08787009059d769b8a776f13c0c1aba5712fc6734
+    name: micro-frontend
+    urls:
+    - micro-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-03-18T09:12:40.982375813+01:00"
